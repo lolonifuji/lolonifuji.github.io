@@ -44,12 +44,10 @@ format:
       light: [flatly, theme-light.scss]
       dark: [darkly, theme-dark.scss]
     css: style.css
-    toc: true
-    toc-location: right
-    toc-title: "On this page"
+    toc: false
     grid:
       sidebar-width: 270px
-      body-width: 700px
-      margin-width: 230px
-      gutter-width: 2.5rem
+      body-width: 980px
+      margin-width: 0px
+      gutter-width: 3rem
     lang: en
