@@ -33,5 +33,8 @@ format:
     theme:
       light: [flatly, theme-light.scss]
       dark: [darkly, theme-dark.scss]
-    toc: false
+    css: style.css
+    include-before-body: profile.html
+    toc: true
+    toc-location: right
     lang: en
