@@ -1,11 +1,7 @@
 ---
-title: "Loris Lombardi"
+title: "About"
 ---
 
-PhD candidate, International and Advanced Japanese Studies, University of Tsukuba\
-Part-time Lecturer, University of Tsukuba
-
-[Email](mailto:loris.lombardi.jp@gmail.com) · [ORCID](https://orcid.org/0009-0002-4915-1750) · [GitHub](https://github.com/lolonifuji) · [LinkedIn](https://www.linkedin.com/in/lorislombardi)
 
 I am a PhD candidate in International and Advanced Japanese Studies at the
 University of Tsukuba. My research applies computational text analysis to

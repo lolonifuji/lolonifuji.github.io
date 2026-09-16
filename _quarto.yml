@@ -7,24 +7,34 @@ project:
 website:
   title: "Loris Lombardi"
   site-url: https://lorislombardi.jp
-  navbar:
-    left:
+  search:
+    location: sidebar
+    type: textbox
+  sidebar:
+    style: floating
+    search: true
+    header: _sidebar-header.md
+    footer: _sidebar-footer.md
+    contents:
       - href: index.qmd
         text: About
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
-    right:
-      - icon: github
-        href: https://github.com/lolonifuji
-        aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/lorislombardi
-        aria-label: LinkedIn
-      - icon: envelope
-        href: mailto:loris.lombardi.jp@gmail.com
-        aria-label: Email
+      - text: "---"
+      - href: mailto:loris.lombardi.jp@gmail.com
+        text: Email
+        icon: envelope
+      - href: https://orcid.org/0009-0002-4915-1750
+        text: ORCID
+        icon: person-badge
+      - href: https://github.com/lolonifuji
+        text: GitHub
+        icon: github
+      - href: https://www.linkedin.com/in/lorislombardi
+        text: LinkedIn
+        icon: linkedin
   page-footer:
     center: "© 2026 Loris Lombardi · lorislombardi.jp"
 
@@ -33,5 +43,13 @@ format:
     theme:
       light: [flatly, theme-light.scss]
       dark: [darkly, theme-dark.scss]
-    toc: false
+    css: style.css
+    toc: true
+    toc-location: right
+    toc-title: "On this page"
+    grid:
+      sidebar-width: 270px
+      body-width: 700px
+      margin-width: 230px
+      gutter-width: 2.5rem
     lang: en

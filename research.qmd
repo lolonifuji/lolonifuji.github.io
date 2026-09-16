@@ -1,35 +1,41 @@
 ---
 title: "Research"
-toc: true
-toc-location: right
 ---
 
 ## Publications
 
-**AI-Assisted Policymaking in Japan and the DeepSeek Shock**\
-Loris Lombardi and Muneo Kaigo. In *Digital Transformation and Public
-Acceptance in Japan*, Springer, 2026. `in press`
+### Peer-reviewed journal articles
 
 **Toxic Talk: Structural Toxicity on a Japanese Anonymous Textboard**\
 Loris Lombardi. *Emerging Media* 3(4), 621–644, 2025.\
 [[doi]](https://doi.org/10.1177/27523543251376848) `open access`
 
-## Presentations
+### Book chapters
+
+**AI-Assisted Policymaking in Japan and the DeepSeek Shock**\
+Loris Lombardi and Muneo Kaigo. In Muneo Kaigo and Hidehiro Yamamoto (eds.),
+*Digital Transformation and Public Acceptance in Japan: Legal, Institutional,
+and Civic Perspectives*, chapter 5. Advances in Information and Communication
+Research, vol. 8. Springer, 2026. `in press`
+
+## Conference presentations
 
 **"We Will End Up Becoming an AI Colony": Tracing a Techno-Colonial Frame
 Across Anonymous, Journalistic, and State Discourse in Japan**\
 Loris Lombardi and Muneo Kaigo. *12th Annual Conference of The International
 Journal of Press/Politics*, National University of Singapore, November 2026.
+`forthcoming`
 
 **Public Anxiety and Trust in AI Governance in Japan**\
 Loris Lombardi and Muneo Kaigo. *32nd AMIC Annual Conference* (Asian Media
 Information and Communication Centre), Manila, Philippines, November 2026.
+`forthcoming`
 
 **Making Ambiguous Harm Legible: Human-in-the-Loop LLM Corpus Construction
 for Hate-Speech Frontiers in Japanese Digital Discourse**\
 Loris Lombardi. *JADH 2026*, 15th Annual Conference of the Japanese
 Association for Digital Humanities, Kyushu University, Fukuoka, Japan,
-September 2026.
+September 2026. In *Proceedings of JADH 2026*, 49–51. `peer-reviewed`
 
 **「平等」はいかに語られてきたか：国会会議録に基づく計量的分析 (How Has
 "Equality" Been Discussed? A Quantitative Analysis Based on National Diet
@@ -64,7 +70,7 @@ Grenoble Alpes, Grenoble, France, May 2025.
 Loris Lombardi and Muneo Kaigo. *ICA Preconference "Digital Asia"*,
 International Communication Association, Gold Coast, Australia, June 2024.
 
-## Workshops & other talks
+## Invited talks and other presentations
 
 **Hate Speech in Japanese Anonymous Communities: Non-regulation and Platform
 Affordances**\
@@ -75,3 +81,8 @@ March 2025.
 Comments**\
 Loris Lombardi. *UT–UGA Thematic School on Gender Studies*, University of
 Tsukuba, Japan, December 2024.
+
+**Assessing the Toxicity Level of Japanese Online News Comments with
+Perspective API**\
+Loris Lombardi. Poster, *Jinsha Poster Contest*, University of Tsukuba, Japan,
+January 2024.
