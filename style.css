@@ -49,12 +49,23 @@ p { line-height: 1.6; }
 /* Sidebar order without a navbar: name and toggle, role, page links, search. */
 
 #quarto-sidebar {
-  display: flex;
   flex-direction: column;
-  height: auto !important;
-  max-height: calc(100vh - 2rem) !important;
   padding: 1.25rem 1rem 1.5rem;
-  align-self: start;
+}
+
+/* Desktop: docked, content-height. Phones: Bootstrap collapse stays in charge. */
+
+@media (min-width: 992px) {
+  #quarto-sidebar {
+    display: flex;
+    height: auto !important;
+    max-height: calc(100vh - 2rem) !important;
+    align-self: start;
+  }
+}
+@media (max-width: 991.98px) {
+  #quarto-sidebar.collapse:not(.show) { display: none; }
+  #quarto-sidebar.show { display: flex; }
 }
 #quarto-sidebar > .sidebar-header { order: 1; }
 #quarto-sidebar > .quarto-sidebar-header { order: 2; }
